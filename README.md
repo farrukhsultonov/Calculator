@@ -2,7 +2,7 @@
 
 Calculator app.
 
-## Click [here](https://farrukhsultonov.github.io/Calculator/) to play the game.
+## Click [here](https://farrukhsultonov.github.io/Calculator/) and check it out!
 
 ## Screenshots
 
